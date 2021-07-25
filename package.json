@@ -1,0 +1,14 @@
+{
+  "name": "helloapp",
+  "version": "1.0.0",
+  "description": "this is application hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Agafonova Olga",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
